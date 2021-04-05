@@ -5,5 +5,5 @@ import "../global.css";
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
-
+/* Export */
 export default MyApp;
