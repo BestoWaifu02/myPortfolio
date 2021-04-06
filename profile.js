@@ -55,7 +55,7 @@ export const proyects = [
   {
     name: "Api Crud",
     description: "Full API crud (Create, Read, Update and Delete)",
-    image: "Api.png",
+    image: "api.png",
     link: "https://nodejs-sin-express.herokuapp.com/",
   },
   {
